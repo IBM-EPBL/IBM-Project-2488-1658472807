@@ -5,6 +5,6 @@ TEAM DETAILS
 Team Leader - Nandha Krishnan N
 
 Team Members: 
-  Manimaran S
-  Sathish Kumar P
+  Manimaran S,
+  Sathish Kumar P,
   Dev Karthikeyan A V
