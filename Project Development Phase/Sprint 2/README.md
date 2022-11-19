@@ -21,6 +21,4 @@ Implementing ML algorithms:
 Model building:
 	The ML model with the best regression algorithm is created and the model is trained.
 
-Application building:
-	Here, we have to import the flask module in our project. Next, a form is created using HTML to get values from the users and display the fuel consumption predicted as the output.
 
