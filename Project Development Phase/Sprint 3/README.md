@@ -5,3 +5,5 @@
 
 FOCUS ELEMENTS: 
 
+Application building:
+	Here, Flask module is imported in our project. Next, a form is created using HTML to get values from the users and display the fuel consumption predicted as the output.
